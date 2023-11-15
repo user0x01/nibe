@@ -4919,12 +4919,14 @@
   "31920": {
     "title": "Brine pump dT current",
     "factor": 10,
+    "unit": "\u00b0C",
     "size": "s16",
     "name": "brine-pump-dt-current-31920"
   },
   "31921": {
     "title": "Brine pump dT set point value",
     "factor": 10,
+    "unit": "\u00b0C",
     "size": "s16",
     "name": "brine-pump-dt-set-point-value-31921"
   },
